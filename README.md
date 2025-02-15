@@ -1,5 +1,7 @@
 # XLSX API для поиска N-го наибольшего числа
 
+## Java 17+ REQUIRED
+
 ## Сборка
 `gradlew build`
 
